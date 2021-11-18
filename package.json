@@ -1,0 +1,16 @@
+{
+  "name": "todo-app-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node ./app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "author": "Larissa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
